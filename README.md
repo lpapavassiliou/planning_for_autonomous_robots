@@ -1,5 +1,5 @@
 # planning_for_autonomous_robots
-This repository holds the exercises and the final project I had to solve individually for the course at ETH "Planning for Autonomous Robots", delivered by Prof Emilio Frazzoli. Access to private libraries is required to run the code.
+This repository holds the exercises and the final project I had to solve individually for the course at ETH "Planning for Autonomous Robots", delivered by Prof Emilio Frazzoli. Code available in "/src/exercises". Access to private libraries is required to run the code.
 
 TOPICS
   EX 01 - Simple exercise to start

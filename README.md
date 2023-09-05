@@ -5,11 +5,11 @@ TOPICS
   EX 01 - Simple exercise to start
   EX 02 - Graph Seach with Depth-First and Breadth-First
   EX 03 - Shortest Path with Uniform Cost and A*
-  EX 04 - Value Iteration, Policy Iteration
-  EX 05 - Dubins Path
-  EX 06 - Algorithms for Collision checking
+  EX 04 - Value Iteration, Policy Iteration on a grid state-space
+  EX 05 - Trajectory planning with Dubins Path
+  EX 06 - Collision checking with geometry
   EX 07 - Linear Programs for Trajectory Planning
-  EX 08 (Final Project) 
+  EX 08   (Final Project) 
   	- Rapidly-exploring Random Graph for trajectory planning
   	- PID controller for trajectory tracking
   	- Heuristics to avoid collision with other agents
